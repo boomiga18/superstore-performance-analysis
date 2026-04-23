@@ -85,6 +85,7 @@ This suggests a **conversion problem**: these stores attract customers but fail 
 
 ---
 
+
 ## 📁 Repository Structure
 superstore-performance-analysis/
 │
@@ -99,6 +100,7 @@ superstore-performance-analysis/
 │   ├── fig6_feature_importance.png
 │   └── fig7_tree_diagram.png
 └── README.md
+
 
 ## ▶️ How to Run
 
