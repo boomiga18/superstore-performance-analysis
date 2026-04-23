@@ -15,7 +15,7 @@ Retail companies manage hundreds of stores across different locations. Without u
 ## 📊 Dataset
 
 - **Source:** Kaggle — Superstore Sales & Performance Analysis
-- **Size:** 895 store records
+- **Size:** 896 store records
 - **Features used:**
 
 | Feature | Description |
@@ -91,8 +91,7 @@ This suggests a **conversion problem**: these stores attract customers but fail 
 superstore-performance-analysis/
 │
 ├── code.ipynb                        # Full analysis notebook
-├── Superstore_Sales_Performance.csv  # Dataset
-├── figures/
+├── Superstore_Sales_Performance_Analysis.csv  # Dataset
 │   ├── fig1_performance_dist.png
 │   ├── fig2_sales_by_perf.png
 │   ├── fig3_area_vs_sales.png
@@ -110,7 +109,7 @@ git clone https://github.com/boomiga18/superstore-performance-analysis.git
 
 2. Open Google Colab — https://colab.research.google.com
 
-3. Upload code.ipynb and Superstore_Sales_Performance.csv to your Colab environment
+3. Upload code.ipynb and Superstore_Sales_Performance_Analysis.csv to your Colab environment
 
 4. Run all cells
 
