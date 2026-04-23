@@ -31,7 +31,7 @@ Retail companies manage hundreds of stores across different locations. Without u
 ## 🔧 Tools & Libraries
 
 - **Python** — pandas, matplotlib, seaborn, scikit-learn
-- **Jupyter Notebook**
+- **Google Colab**
 - **Machine Learning** — Decision Tree Classifier
 
 ---
@@ -104,16 +104,14 @@ superstore-performance-analysis/
 
 ## ▶️ How to Run
 
-1. Clone the repository
+1. Download the repository or clone it
 git clone https://github.com/boomiga18/superstore-performance-analysis.git
 
-2. Install dependencies
-pip install pandas matplotlib seaborn scikit-learn jupyter
+2. Open Google Colab — https://colab.research.google.com
 
-3. Open the notebook
-jupyter notebook code.ipynb
+3. Upload code.ipynb and Superstore_Sales_Performance.csv to your Colab environment
 
----
+4. Run all cells
 
 ## 🚀 Future Improvements
 
