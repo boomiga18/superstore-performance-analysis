@@ -90,15 +90,15 @@ This suggests a **conversion problem**: these stores attract customers but fail 
 ` ` `
 superstore-performance-analysis/
 │
-├── code.ipynb                        # Full analysis notebook
+├── code.ipynb                                 # Full analysis notebook
 ├── Superstore_Sales_Performance_Analysis.csv  # Dataset
-│   ├── fig1_performance_dist.png
-│   ├── fig2_sales_by_perf.png
-│   ├── fig3_area_vs_sales.png
-│   ├── fig4_customers_by_perf.png
-│   ├── fig5_confusion_matrix.png
-│   ├── fig6_feature_importance.png
-│   └── fig7_tree_diagram.png
+├── fig1_performance_dist.png
+├── fig2_sales_by_perf.png
+├── fig3_area_vs_sales.png
+├── fig4_customers_by_perf.png
+├── fig5_confusion_matrix.png
+├── fig6_feature_importance.png
+├── fig7_tree_diagram.png
 └── README.md
 ` ` `
 
