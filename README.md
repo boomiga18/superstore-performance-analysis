@@ -14,7 +14,7 @@ Retail companies manage hundreds of stores across different locations. Without u
 
 ## 📊 Dataset
 
-- **Source:** [Kaggle — Superstore Sales & Performance Analysis](https://www.kaggle.com/)
+- **Source:** Kaggle — Superstore Sales & Performance Analysis
 - **Size:** 895 store records
 - **Features used:**
 
